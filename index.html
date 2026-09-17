@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#251042">
+  <meta name="description" content="Una invitación especial te espera. Abre el sobre y descubre la magia.">
+  <title>Una invitación para ti</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect x='2' y='6' width='28' height='20' rx='3' fill='%237930be'/%3E%3Cpath d='M3 7L16 18L29 7' fill='none' stroke='%23ffb2ec' stroke-width='2'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="assets/style.css">
+  <script src="assets/app.js" defer></script>
+</head>
+<body>
+  <main>
+    <section class="cover" id="cover" aria-labelledby="title">
+      <p class="eyebrow">UN MOMENTO ESPECIAL</p>
+      <h1 id="title">Una invitación<br><em>para ti</em></h1>
+      <div class="envelope" aria-hidden="true">
+        <div class="letter"><span>Con mucho cariño</span><span class="ornament">✧</span></div>
+        <div class="pocket"></div><div class="flap"></div><div class="seal">✧</div>
+      </div>
+      <button class="open-button" id="open" aria-controls="reveal">Aprieta el botón para descubrir la magia<span aria-hidden="true"> ↗</span></button>
+      <p class="note">Hecha para compartir un momento contigo</p>
+    </section>
+    <section class="reveal" id="reveal" aria-label="Tu invitación en video" hidden>
+      <p class="eyebrow">LA MAGIA COMIENZA AQUÍ</p>
+      <div class="video-frame"><video id="video" controls playsinline webkit-playsinline preload="metadata" aria-label="Video de la invitación"><source src="assets/invitacion.mp4?v=20260917-164127" type="video/mp4">Tu navegador no puede reproducir este video.</video></div>
+      <p id="status" class="status" role="status" aria-live="polite"></p>
+      <button id="play" class="secondary" hidden>Reproducir video</button>
+      <button id="sound" class="secondary" hidden>Activar sonido</button>
+      <a id="download" class="secondary" href="assets/invitacion.mp4?v=20260917-164127" hidden>Abrir video directamente</a>
+      <button id="back" class="back">Volver al sobre</button>
+    </section>
+    <noscript><p class="no-script">Abre tu invitación aquí: <a href="assets/invitacion.mp4?v=20260917-164127">Ver video</a></p></noscript>
+  </main>
+</body>
+</html>
+
+
