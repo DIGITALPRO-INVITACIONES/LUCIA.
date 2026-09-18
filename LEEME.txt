@@ -1,10 +1,11 @@
-INVITACIÓN LISTA PARA GITHUB
+INVITACIÓN ACTUALIZADA PARA GITHUB
 
-1. Descomprime el ZIP.
-2. Abre la carpeta invitacion-github-corregida.
-3. Sube TODOS los archivos que están dentro a la raíz de tu repositorio, reemplazando los anteriores.
-4. Los archivos index.html, style.css, app.js e invitacion.mp4 deben estar juntos, al mismo nivel.
-5. Conserva exactamente el nombre invitacion.mp4 (sin tilde).
-6. Confirma la carga y espera a que GitHub Pages termine de publicar. Después recarga la página con Ctrl+F5.
+Incluye el video al 85 % de velocidad, con «Principito II» en la ubicación durante toda la tarjeta. Mantiene el sobre violeta y rosa.
 
-Incluye el video actualizado de las 16.41.27 y la presentación violeta y rosa aprobada.
+1. Descomprime el ZIP y abre invitacion-github-corregida.
+2. Sube TODOS los archivos de dentro a la raíz de tu repositorio, reemplazando los anteriores.
+3. index.html, style.css, app.js e invitacion.mp4 deben quedar juntos, al mismo nivel.
+4. Conserva el nombre invitacion.mp4 (sin tilde).
+5. Confirma los cambios y espera a que GitHub termine de publicar. Luego recarga la página.
+
+El HTML incluye una nueva versión en la dirección del video para evitar que se reutilice el anterior desde la caché.
