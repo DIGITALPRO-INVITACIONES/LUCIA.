@@ -1,6 +1,6 @@
 INVITACIÓN ACTUALIZADA PARA GITHUB
 
-Incluye el video al 85 % de velocidad, con «Principito II» en la ubicación durante toda la tarjeta. Mantiene el sobre violeta y rosa.
+Incluye el video al 85 % de velocidad, con «Principito II» en la ubicación durante toda la tarjeta. La tarjeta dice DOMINGO 27 DE SEPTIEMBRE. Mantiene el sobre violeta y rosa.
 
 1. Descomprime el ZIP y abre invitacion-github-corregida.
 2. Sube TODOS los archivos de dentro a la raíz de tu repositorio, reemplazando los anteriores.
@@ -9,3 +9,4 @@ Incluye el video al 85 % de velocidad, con «Principito II» en la ubicación du
 5. Confirma los cambios y espera a que GitHub termine de publicar. Luego recarga la página.
 
 El HTML incluye una nueva versión en la dirección del video para evitar que se reutilice el anterior desde la caché.
+
